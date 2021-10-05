@@ -6,7 +6,7 @@ This repo contains the material that we cover during class as well as the exerci
 
 If you wonder how you can download the material provided here without installing git: Click on 'Code', then 'Download zip'.
 
-
+![image](https://user-images.githubusercontent.com/67644157/136022650-9d25f936-97e4-458d-a348-c11ffa634caa.png)
 
 
 
