@@ -4,9 +4,12 @@ Welcome! This is the github repo for the second half of the course 'Python Basic
 
 This repo contains the material that we cover during class as well as the exercises that you are supposed to turn in to pass this course. It also contains a Notebook called 'recap' which covers the main take-aways from the first half of the course. If you have any question or comment on the material, please leave me a message: johanna.schnier@the-klu.org
 
-If you wonder how you can download the material provided here without installing git: Click on 'Code', then 'Download zip'.
+# How do I download the material without installing git?
+
+Click on 'Code', then 'Download zip'.
 
 ![image](https://user-images.githubusercontent.com/67644157/136022650-9d25f936-97e4-458d-a348-c11ffa634caa.png)
 
+# I have troubles loading the titanic.csv ...
 
 
