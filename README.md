@@ -12,6 +12,6 @@ Click on 'Code', then 'Download zip'.
 
 # I have troubles loading the titanic.csv ...
 
-Copy the 'titanic.csv' to the same location as that of your notebooks. Then replace 'pd.read_csv('../python_basics_johanna/data/titanic.csv')' by 'pd.read_csv('titanic.csv')'. So, if the 'session_4 notebook runs smoothly until the point when you try to read in the data, this is probably because you have not adjusted the path accordingly. In general, you must always tell Python exactly where your data lies.
+Copy the 'titanic.csv' to the same location as that of your notebooks. Then replace 'pd.read_csv('../python_basics_johanna/data/titanic.csv')' by 'pd.read_csv('titanic.csv')'. So, if the 'session_4' notebook runs smoothly until the point when you try to read in the data, this is probably because you have not adjusted the path accordingly. In general, you must always tell Python exactly where your data lies.
 
 
